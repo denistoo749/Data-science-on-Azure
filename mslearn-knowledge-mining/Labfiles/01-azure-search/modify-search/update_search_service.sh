@@ -2,7 +2,7 @@
 
 # Set values for your Search service
 url="https://azureaisearchs.search.windows.net"
-admin_key="ZOlPGVYsGPq911Y9p8ckjTv6Un2SvgRkuhpmZEG5DPAzSeDgr4N9"
+admin_key="..."
 
 echo "-----"
 echo "Updating the skillset..."
