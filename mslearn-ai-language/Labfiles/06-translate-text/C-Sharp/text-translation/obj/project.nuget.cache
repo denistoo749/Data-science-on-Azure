@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "bSOOTrZdOaAUXrE7SmsUD3+PdUMvm3DUQ0C/VUr2bUCEvYI6iFB2Fh3fIPGVd+ggCaRQFtjRyR6bc46pxsQZQQ==",
+  "success": true,
+  "projectFilePath": "/home/denis/Desktop/New Folder/mslearn-ai-language/Labfiles/06-translate-text/C-Sharp/text-translation/translate_text.csproj",
+  "expectedPackageFiles": [
+    "/home/denis/.nuget/packages/microsoft.extensions.configuration/3.1.3/microsoft.extensions.configuration.3.1.3.nupkg.sha512",
+    "/home/denis/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.3/microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",
+    "/home/denis/.nuget/packages/microsoft.extensions.configuration.fileextensions/3.1.3/microsoft.extensions.configuration.fileextensions.3.1.3.nupkg.sha512",
+    "/home/denis/.nuget/packages/microsoft.extensions.configuration.json/3.1.3/microsoft.extensions.configuration.json.3.1.3.nupkg.sha512",
+    "/home/denis/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.1.3/microsoft.extensions.fileproviders.abstractions.3.1.3.nupkg.sha512",
+    "/home/denis/.nuget/packages/microsoft.extensions.fileproviders.physical/3.1.3/microsoft.extensions.fileproviders.physical.3.1.3.nupkg.sha512",
+    "/home/denis/.nuget/packages/microsoft.extensions.filesystemglobbing/3.1.3/microsoft.extensions.filesystemglobbing.3.1.3.nupkg.sha512",
+    "/home/denis/.nuget/packages/microsoft.extensions.primitives/3.1.3/microsoft.extensions.primitives.3.1.3.nupkg.sha512",
+    "/home/denis/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
